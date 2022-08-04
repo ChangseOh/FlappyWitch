@@ -183,7 +183,7 @@ void HelloWorld::WitchRun(Sprite* witch)
         if ((0 <= tileX && tileX < map->getMapSize().width) && (0 <= tileY && tileY < map->getMapSize().height))
         {
             auto gid = obsLayer->getTileGIDAt(Vec2(tileX, tileY));
-            if (gid > 13)
+            if (gid >= 13)
             {
                 AudioEngine::stop(bgmID);
 
