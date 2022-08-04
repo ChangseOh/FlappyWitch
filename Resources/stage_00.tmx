@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.5" orientation="orthogonal" renderorder="right-down" width="256" height="12" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="tile.tsx"/>
+ <layer id="1" name="obs" width="256" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzlWNluAzEI3B/ooV5qlbb//5n1qlnJisA7MMA6yUi8EMwxBpxkWXLw3eSnya/y+UeTtyafO3rNDvXJ6FCM/GmyV/cKicM9Xvd8jvTWMx7/IxupNvb+onOUsOW9yvP5zEunk0SyY3QePdJDWdC4vewBdv6ZnkKRNf8stF0x6/yjdug9V+XoOcPUlbHrqmHdrciuQm3ZdxXxZ51/Jr4Vo1iWOfLsF4uNZse+CSsQvmeYfwlW3it7C8WMOUWi/04oybXVHfG7w2qjxY2YfwSjsw9NHps8XeiZN4h9p299pjZo3N96bA2z5YT0YfT3reo4lb/XrhGZPfm6/HP/nuC7h1RDVWwNM+YUBaZnqnegZVZn288V8PYkwlUV91INlbOGzrqWU3bfRftnuGXOZvN0dG6Z9Wm+vTVHz5fkD+UDnbUsftH4GmeevWCpBb0rhm8UR531+s/gJHoWEXh7r5fR+2bpR+a9ZM5G8JsR36rf+8xry9hFzwnKc+ROZ3rGkpvnvlFExdz0vYx4YfvxKJ2057SdlxHfox99xvzvEL1vK2JY90nE3bKcZM5/VMx7mX+pTq3mjPgevfVMxcwdFcO6dyrvNvK+996pTb7OPk5B+l5Og3OaHzTHo3WaIHwxOo/eeubedKOeq7zbqPte9+cfuWddlw==
+  </data>
+ </layer>
+ <layer id="2" name="grid" width="256" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztVlsOwzAI6012/1vud6pWxWAbSFtL/NCEt0mPw4PPj0S+n/UrOyubjA7Fyt6VqGKPxLWywcaHxqjuVTSWbIyrc7tJF9C+sPPu4FXUL1J7R0924z96bhr/M3ccs1o5WyyYOjls3pH/V7gj/6N+duF/xMeE2UIxMSYlovyfDvUe7uY/AtWeRG2zs7HrbEXRmefEGk+LyfW2Zu5W85/BtD4ycOZSVSfHjmYxMSYVqnaCAlU7aFdkc1a/HeqZquwl6p/9F1XG12Vv8u7ojq3jLXbyn7WH+mD5x8LFf9V/LVNH5tyku1n7jpp0vAPM7CF1YfPv0kXh8H8H/nf5UHJGnZey3yhUPp/C/6s8I/WaxP+KGZ7kI+O3qrfKfqNQ+VzV66yLxF7Na1TXMSMZffTO03T/0NFbV79feeWVZ8kXiSeNrw==
+  </data>
+ </layer>
+ <layer id="3" name="item" width="256" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztl9sOg0AIRI3//9F9bZqqXAYYzJwXm1qXWXYQehzCyzktQIwjD8wxkfsN571Bo3g3Vx6s8uak56dinxef2XnSumkvHhh8MhEnGh+tm0VHBGStM+zHglcnIkcducnEQOpDrMVSo5k4DPVQrce65r/f3T3LlscuOveaObvv73+vk0Q0WJ5B+RHRPzb0aWtto2NNe9CiBaXRsn5m1oncz7C15z9R9b7w9lR2qrwXqZOuOsj24EqiOdjswa0wzI3d594xY3hnQ1aYZqRNKFd50HW6aQbNxO78DxWBQUMFb92XEEIIIYQQ1XwAKhIA0Q==
+  </data>
+ </layer>
+</map>
